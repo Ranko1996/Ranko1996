@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranko1996&label=Profile%20views&color=0e75b6&style=flat" alt="ranko1996" /> </p>
 
-- 🔭 I’m currently working on **Job finder app**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **.NET Core**
 - 👨‍💻 All of my projects are available at [rankoportfolio.netlify.app](https://rankoportfolio.netlify.app/)
 - 📫 How to reach me **koturic96@gmail.com**
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1HXPCrQmOgMRyvvuL33uYMj7dki8af-Ci/view?usp=sharing)
@@ -20,6 +19,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET Core" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranko1996&show_icons=true&locale=en&layout=compact" alt="ranko1996" /></p>
